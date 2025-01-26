@@ -9,7 +9,7 @@ public class Main {
         int n = scan.nextInt();
 
         if (n < 1) {
-            System.out.println("invalid number.");
+            System.out.println("invalid number. ");
             System.exit(1);
         }
 

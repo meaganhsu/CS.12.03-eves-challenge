@@ -40,7 +40,7 @@ public class CircularLinkedList {
     }
 
     public void print() {
-        if (head == null) System.out.println("List is empty");
+        if (head == null) System.out.println("list is empty");
 
         Node itr = head.next;
 
